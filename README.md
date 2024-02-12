@@ -17,5 +17,5 @@ Module2 call provide source i.e.Path of the module directory
 
 ![image](https://github.com/gsbarure/gs_terraform_module/assets/125451289/16e597b5-d58e-402c-8bdb-02dd647884ab)
 
+![image](https://github.com/gsbarure/gs_terraform_module/assets/125451289/c7035bfb-a54f-41fd-a330-80749cc7af69)
 
-                  
